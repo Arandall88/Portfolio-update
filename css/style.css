@@ -30,7 +30,7 @@ body {
   
   .block-header {
     /* Typography */
-    color: #4aaaa5;
+    color: #0b1baa;
     font-family: Georgia, Times, "Times New Roman", serif;
     font-weight: bold;
   }
@@ -45,7 +45,7 @@ body {
     color: #fff;
   
     /* Visual */
-    background: #4aaaa5;
+    background: #3e09b9;
   }
   
   /* override bootstrap hover color and border */
@@ -117,7 +117,7 @@ body {
     padding-top: 3px;
   
     /* Visual */
-    background-color: #4aaaa5;
+    background-color: #1c0475;
   }
   /* END FOOTER */
   /* --- END STYLES FOR ALL PAGES --- */
@@ -132,7 +132,7 @@ body {
     /* Typography */
     font-size: 32px;
     font-weight: bold;
-    color: #4aaaa5;
+    color: #180664;
   }
   
   #about-image {
@@ -173,7 +173,7 @@ body {
     color: #fff;
   
     /* Visual */
-    background-color: #4aaaa5;
+    background-color: #3709a1;
     border: 0;
   }
   
